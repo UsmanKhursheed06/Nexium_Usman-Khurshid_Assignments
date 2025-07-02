@@ -4,7 +4,7 @@ import { Inter } from "next/font/google"
 import "./globals.css"
 
 const inter = Inter({ subsets: ["latin"] })
-
+//hi
 export const metadata: Metadata = {
   title: "Quote Generator - Find Inspiring Quotes",
   description: "Discover inspiring quotes on any topic. Find wisdom and motivation from history's greatest minds.",
